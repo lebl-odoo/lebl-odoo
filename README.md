@@ -1,5 +1,5 @@
 ### 👋 Hello there, I'm Lionel Lebon
 
-#### A Product Owner by day ☀️ and a Nature Protector by night 🌕
+#### A Product Owner by day ☀️
 
-I'm @lebolnobel and I work at Odoo. Here is my personal [github profile](https://github.com/lebolnobel)
+I'm [@lebolnobel](https://lionellebon.be) and I work at Odoo. Here is my personal [github profile](https://github.com/lebolnobel)
