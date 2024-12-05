@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Lionel Lebon
+### 👋 Hello there, I'm lebl
 
 #### A Product Owner by day ☀️
 
